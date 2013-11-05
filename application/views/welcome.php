@@ -39,7 +39,7 @@ include 'designconstants.php';
 			<input type='hidden' name='txttime' id='txttime' value='<?php echo $time;?>'>
 			</td>
 			<td align='left'><input type='submit' name='sub' id='sub' value="Upload"></td>
-			<td align='left'><a href="<?php echo SITE_URL; ?>test.csv" rel='nofollow'><input type='button' name='exp' id='exp' value="Export" ></a></td>
+			<td align='left'><a href="<?php echo SITE_URL; ?>test.csv" rel='nofollow'><input type='button' name='exp' id='exp' value="Export Template" ></a></td>
 		</tr>
 		</table>
 		</form>
