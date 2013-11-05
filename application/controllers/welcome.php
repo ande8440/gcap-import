@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 				{
 					if ( ! @move_uploaded_file($_FILES['csvfile']['tmp_name'], $config['upload_path'].$config['file_name']))
 					{
-						$data['error'] = array('error' => 'File not uploaded. Please try again.');
+						$data['error'] = array('error' => 'File not uploaded. Please try again!');
 					}
 					else
 					{
