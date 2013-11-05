@@ -1,0 +1,4 @@
+portfolio_id,portfolio_user_id,portfolio_company_name,portfolio_website,portfolio_city,portfolio_state,portfolio_country,portfolio_sector,portfolio_company_tags
+1,2,Manoj,www.streamlgix.com,New York,New York,United States,"Software Technology, Internet & SaaS, Hardware Technology","Online Food, Delivery, Monthly Subscription"
+2,4,Msxpert Solutions,www.msxpertsolutions.com,Mohali,Punjab,India,"Software Technology, Internet","Web Development, mobile applications"
+,55,Infosys,www.infosys.com,Banglore,Maharastra,india,"Software Technology, Internet & SaaS",Banking Software
