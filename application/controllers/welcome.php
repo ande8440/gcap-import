@@ -67,7 +67,7 @@ class Welcome extends CI_Controller {
 						}
 							$this->db->query($sql);
 					 }		
-					 $data['msg'] = array('upload_data' => 'File imported successfully.');
+					 $data['msg'] = array('upload_data' => 'File imported successfully!');
 					 unlink($config['upload_path'].$config['file_name']);
 				}
 			}
